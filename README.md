@@ -1,16 +1,19 @@
-## Hi there 👋
+# Kemoo — Bug Bounty Hunter 
 
-<!--
-**0xKemoo/0xKemoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bug Bounty | Web Security | CTF Player**  
+Focused, analytical researcher with practical experience in vulnerability discovery and exploit development. Currently actively participating in CTFs and bug bounty programs to produce reliable, reproducible security reports and high-quality proofs-of-concept.
 
-Here are some ideas to get you started:
+## Core Competencies
+- Web security: XSS, SQLi, SSRF, IDOR, Broken Access Control, OAuth flows
+- Advanced topics: Web Cache Poisoning, Host Header attacks, authentication logic
+- Recon & tooling: amass, subfinder, ffuf, Burp Suite, nmap, masscan
+- Automation & scripting: Python, Bash, Git, Docker
+- Reporting: Clear PoC, reproduction steps, mitigation recommendations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional approach
+- Deliverable-oriented: concise PoC, impact assessment, remediation steps.  
+- Ethics-first: follow responsible disclosure and scope limits.  
+- Analytical mindset: prioritize root-cause analysis and reliable replication.
+
+## Selected work
+- CTF writeups & practical labs — `github.com/0xKemoo/CTF-Writeups`
