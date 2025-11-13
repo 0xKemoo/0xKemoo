@@ -3,7 +3,7 @@
   <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/bungo-stray-dogs-dazai-dark-era.jpg?q=50&fit=crop&w=1600&h=900&dpr=1.5" width="800" alt="Kemoo Banner">
 </p>
 
-<h1 align="center">👋 Hey, I'm <strong>0xKemoo</strong></h1>
+<h1 align="center">👋 Hey, I'm <strong>0xKmzex</strong></h1>
 
 <p align="center">
   <b>Bug Bounty Hunter | Web Security Researcher | CTF Player</b><br>
@@ -23,7 +23,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,html,css,js,php,docker,git,burpsuite" />
+  <img src="https://skillicons.dev/icons?i=python,linux,html,js,php,docker,burpsuite" />
 </p>
 
 ---
